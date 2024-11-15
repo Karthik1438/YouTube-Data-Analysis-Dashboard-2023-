@@ -1,5 +1,8 @@
 # YouTube-Data-Analysis-Dashboard-2023-
 Power BI Dashboard for YouTube 2023 Data Analysis
+
+![YouTube Analysis Power BI Project](https://github.com/Karthik1438/YouTube-Data-Analysis-Dashboard-2023-/blob/main/Screenshot%202024-11-15%20222935.png)
+
 This project features a comprehensive Power BI dashboard analyzing YouTube data for the year 2023. The dashboard includes various metrics and insights such as:
 
 **Content Performance**: Analysis of video views, likes, and comments trends.
